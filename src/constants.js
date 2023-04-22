@@ -107,11 +107,11 @@ import {
       ],
     },
   ];
-  const projects = [
+   const projects = [
     {
       name: "AI-Imagenator",
       description:
-        "An AI powered application which help you to create visually stunning and high quality images with the help of DallE AI by OpenAi.",
+        "An AI powered application which help you to create visually stunning and high quality images with the help of DallE AI by OpenAi. Inspired by a youtube tutorial.",
       tags: [
         {
           name: "React",
@@ -137,7 +137,7 @@ import {
     {
       name: "UShare",
       description:
-        "A photo sharing social media platform for sharing your memories with the community.",
+        "A photo sharing social media platform for sharing your memories with the community. This contains features such as filtering the captions",
       tags: [
         {
           name: "React",
@@ -157,9 +157,9 @@ import {
       "link" :"https://usharereact.netlify.app/",
     },
     {
-      name: "Pro-Cart",
+      name: "Sumz",
       description:
-        "An attractive UI design for an ecommerce website",
+        "An AI powered application which gives you the summary of an article on the web. Just copy the url of the article you are reading and let the AI summarize it for you.",
       tags: [
         {
           name: "React",
@@ -170,13 +170,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "Sanity",
+          name: "OpenAi API",
           color: "orange-text-gradient",
         },
       ],
-      image: "https://www.netsolutions.com/insights/wp-content/uploads/2022/08/11-winning-eCommerce-website-designs-to-help-you-build-great-website.webp",
-      source_code_link: "https://github.com/vector17002/Ecommerce-UI",
-  "link" :"https://ecommerce-ui-ebon.vercel.app/",
+      image: "https://geekflare.com/wp-content/uploads/2022/07/What-Is-an-Article-Summarizer.jpeg",
+      source_code_link: "https://github.com/vector17002/Article-summarizer",
+       "link" :"https://sumz.vercel.app/"
     },
   ];
   
