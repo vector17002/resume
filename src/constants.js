@@ -89,7 +89,7 @@ import {
       title: "MERN Bootcamp from UDEMY",
       icon: reactjs,
       iconBg: "#383E56",
-      date: "Jan 2023 - Present",
+      date: "Jan 2023 - Feb 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Working on my back-end skills as in previous bootcamp I could not focus on backend development that much.",
@@ -99,7 +99,7 @@ import {
       title: "Three Js",
       icon: threejs,
       iconBg: "#E6DEDD",
-      date: "Upcoming Plans",
+      date: "May 2023 - Present",
       points: [
         "Learning in Threejs and WebGL.",
         "Developing and maintaining web applications using React.js and Three.js.",
