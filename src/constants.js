@@ -53,7 +53,7 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
+      name: "Next JS",
       icon: threejs,
     },
     {
@@ -89,32 +89,32 @@ import {
       title: "MERN Bootcamp from UDEMY",
       icon: reactjs,
       iconBg: "#383E56",
-      date: "Jan 2023 - Feb 2023",
+      date: "May 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Working on my back-end skills as in previous bootcamp I could not focus on backend development that much.",
       ],
     },
     {
-      title: "Three Js",
+      title: "Next Js",
       icon: threejs,
       iconBg: "#E6DEDD",
       date: "May 2023 - Present",
       points: [
-        "Learning in Threejs and WebGL.",
-        "Developing and maintaining web applications using React.js and Three.js.",
-        "Creating attractive 3D website using Three.js and WebGL.",
+        "Learning in NextJS.",
+        "Developing and maintaining web applications using NextJS",
+        "Creating attractive anime website using NextJS.",
       ],
     },
   ];
    const projects = [
     {
-      name: "AI-Imagenator",
+      name: "Anime Bucket",
       description:
-        "An AI powered application which help you to create visually stunning and high quality images with the help of DallE AI by OpenAi. Inspired by a youtube tutorial.",
+        "Discover new animes and manage watched ones in a single place.",
       tags: [
         {
-          name: "React",
+          name: "NextJS",
           color: "blue-text-gradient",
         },
         {
@@ -126,7 +126,7 @@ import {
           color: "pink-text-gradient",
         },
         {
-              name:"OpenAi api",
+              name:"JIKAN api",
               color:"pink-text-gradient",
         },
       ],
@@ -140,7 +140,7 @@ import {
         "A photo sharing social media platform for sharing your memories with the community. This contains features such as filtering the captions",
       tags: [
         {
-          name: "React",
+          name: "ReactJS",
           color: "blue-text-gradient",
         },
         {
@@ -162,7 +162,7 @@ import {
         "An AI powered application which gives you the summary of an article on the web. Just copy the url of the article you are reading and let the AI summarize it for you.",
       tags: [
         {
-          name: "React",
+          name: "ReactJS",
           color: "blue-text-gradient",
         },
         {
