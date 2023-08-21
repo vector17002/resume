@@ -89,7 +89,7 @@ import {
       title: "MERN Bootcamp from UDEMY",
       icon: reactjs,
       iconBg: "#383E56",
-      date: "May 2023 - Present",
+      date: "May 2023 - Jun 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Working on my back-end skills as in previous bootcamp I could not focus on backend development that much.",
@@ -111,7 +111,7 @@ import {
     {
       name: "Anime Bucket",
       description:
-        "Discover new animes and manage watched ones in a single place.",
+        "Working on a web application where you can discover new animes and manage watched ones in a single place.",
       tags: [
         {
           name: "NextJS",
@@ -130,9 +130,9 @@ import {
               color:"pink-text-gradient",
         },
       ],
-      image:"https://media.springernature.com/w580h326/nature-cms/uploads/collections/AI_HERO-58306268c6f4b659459f5b7b2dd3e8a5.jpg",
-           source_code_link: "https://github.com/vector17002/openai",
-         "link":"https://aiimage-generation.web.app/",
+      image:"https://assets-prd.ignimgs.com/2022/08/17/top25animecharacters-blogroll-1660777571580.jpg",
+           source_code_link: "https://github.com/vector17002/animbuketsu",
+         "link":"https://animbuketsu.vercel.app/",
     },
     {
       name: "UShare",
