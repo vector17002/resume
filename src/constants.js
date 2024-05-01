@@ -7,9 +7,9 @@ import {
     reactjs,
     tailwind,
     nodejs,
+    threejs,
     mongodb,
     git,
-    threejs,
     express,
     cpp,
     java,
@@ -157,9 +157,9 @@ import {
       "link" :"https://usharereact.netlify.app/",
     },
     {
-      name: "Sumz",
+      name: "Slack Cord",
       description:
-        "An AI powered application which gives you the summary of an article on the web. Just copy the url of the article you are reading and let the AI summarize it for you.",
+        "A simple Chat application with real time updates using Socket.io Programming and secure authentication using JWT.",
       tags: [
         {
           name: "ReactJS",
@@ -170,13 +170,29 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "OpenAi API",
+          name: "MongoDB",
           color: "orange-text-gradient",
         },
+          {
+          name: "NodeJS",
+          color: "pink-text-gradient",
+        },
+          {
+          name: "ExpressJs",
+          color: "blue-text-gradient",
+        },
+          {
+          name: "Socket.io",
+          color: "green-text-gradient",
+        },
+            {
+          name: "JWT",
+          color: "blue-text-gradient",
+        },
       ],
-      image: "https://geekflare.com/wp-content/uploads/2022/07/What-Is-an-Article-Summarizer.jpeg",
-      source_code_link: "https://github.com/vector17002/Article-summarizer",
-       "link" :"https://sumz.vercel.app/"
+      image: "https://camo.githubusercontent.com/d11adc3ccddb3c1ad9d1f75528614b3b650f7021224ac5b78c1e2de397804fa4/68747470733a2f2f776d757a612e6769746875622e696f2f536f636b6574494f2d436861742d4170702f7075626c69632f696d672f636861742d6170702e504e47",
+      source_code_link: "https://github.com/vector17002/slackcord",
+       "link" :"https://slackcord.onrender.com"
     },
   ];
   
